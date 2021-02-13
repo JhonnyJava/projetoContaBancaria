@@ -1,0 +1,16 @@
+C:\ProjetoContaBancaria\Conta.Bank\obj\Debug\net5.0\Conta.Bank.csprojAssemblyReference.cache
+C:\ProjetoContaBancaria\Conta.Bank\obj\Debug\net5.0\Conta.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoContaBancaria\Conta.Bank\obj\Debug\net5.0\Conta.Bank.AssemblyInfoInputs.cache
+C:\ProjetoContaBancaria\Conta.Bank\obj\Debug\net5.0\Conta.Bank.AssemblyInfo.cs
+C:\ProjetoContaBancaria\Conta.Bank\obj\Debug\net5.0\Conta.Bank.csproj.CoreCompileInputs.cache
+C:\ProjetoContaBancaria\Conta.Bank\bin\Debug\net5.0\Conta.Bank.exe
+C:\ProjetoContaBancaria\Conta.Bank\bin\Debug\net5.0\Conta.Bank.deps.json
+C:\ProjetoContaBancaria\Conta.Bank\bin\Debug\net5.0\Conta.Bank.runtimeconfig.json
+C:\ProjetoContaBancaria\Conta.Bank\bin\Debug\net5.0\Conta.Bank.runtimeconfig.dev.json
+C:\ProjetoContaBancaria\Conta.Bank\bin\Debug\net5.0\Conta.Bank.dll
+C:\ProjetoContaBancaria\Conta.Bank\bin\Debug\net5.0\ref\Conta.Bank.dll
+C:\ProjetoContaBancaria\Conta.Bank\bin\Debug\net5.0\Conta.Bank.pdb
+C:\ProjetoContaBancaria\Conta.Bank\obj\Debug\net5.0\Conta.Bank.dll
+C:\ProjetoContaBancaria\Conta.Bank\obj\Debug\net5.0\ref\Conta.Bank.dll
+C:\ProjetoContaBancaria\Conta.Bank\obj\Debug\net5.0\Conta.Bank.pdb
+C:\ProjetoContaBancaria\Conta.Bank\obj\Debug\net5.0\Conta.Bank.genruntimeconfig.cache

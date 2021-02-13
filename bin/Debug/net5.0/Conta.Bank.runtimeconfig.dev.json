@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Loja Gk Eletro\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Loja Gk Eletro\\.nuget\\packages"
+    ]
+  }
+}
